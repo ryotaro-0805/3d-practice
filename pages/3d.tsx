@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import ThereDim from './ThereDim'
 
 export default function Home() {
   return (
@@ -11,8 +10,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <h2>3D-Practice</h2>
-        <ThereDim />
+        <h3>3dデータが入ります</h3>
+        
       </main>
     </>
   )
